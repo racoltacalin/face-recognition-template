@@ -1,1 +1,1 @@
-# face-recognition-template
+Face recognition using face-recognition package.
